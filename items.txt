@@ -1,0 +1,2 @@
+['Amazon Echo (2nd Gen)','https://www.amazon.co.uk/Amazon-Echo-2nd-Generation-Sandstone-Fabric/dp/B06Y65CLQY','50.0','70.0']
+['Amazon Fire Stick','https://www.amazon.co.uk/dp/B0791RGQW3','25.0','40.0']
